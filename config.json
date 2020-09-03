@@ -1,0 +1,16 @@
+{
+  "port": 60006,
+  "domain": "localhost",
+  "wechatWebHookUrl": "",
+  "sms": {
+    "signName": "",
+    "templateCode": "",
+    "accessKeyId": "",
+    "accessKeySecret": "",
+    "endpoint": "",
+    "apiVersion": "",
+    "regionId": "",
+    "oncallPhoneList": []
+
+  }
+}
